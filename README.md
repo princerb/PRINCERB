@@ -1,14 +1,21 @@
 ### Hi there 👋
-.
-<br>
-.
-<br>
-.
-<br>
-<br>
+
 _Access to my private repositories is available upon request. Please get in touch with me for more information._
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
+<br>
+.
 
-
+## Here are a few technologies I have been working with:
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=py,php,js,ts,html,css)
 
 
 <!--
