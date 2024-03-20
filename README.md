@@ -13,6 +13,8 @@ _Access to my private repositories is available upon request. Please get in touc
 <br>
 .
 
+## **40+** Repositories.
+
 ## Here are a few technologies I have been working with:
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,php,js,ts,html,css)]()
