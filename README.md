@@ -13,7 +13,7 @@ _Access to my private repositories is available upon request. Please get in touc
 <br>
 .
 
-## **50+** Repositories.
+## **80+** Repositories.
 
 ## Here are a few technologies I have been working with:
 ### Programming Languages
