@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-_Access to my private repositories is available upon request. Please get in touch with me for more information._
 .
 <br>
 .
@@ -13,7 +12,7 @@ _Access to my private repositories is available upon request. Please get in touc
 <br>
 .
 
-## **80+** Repositories.
+<!-- ## **80+** Repositories. -->
 
 ## Here are a few technologies I have been working with:
 ### Programming Languages
